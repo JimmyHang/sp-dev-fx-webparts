@@ -33,8 +33,8 @@ where sample was demonstrated.
 
 ## Applies to
 
-* [SharePoint Framework Developer](http://dev.office.com/sharepoint/docs/spfx/sharepoint-framework-overview)
-* [Office 365 developer tenant](http://dev.office.com/sharepoint/docs/spfx/set-up-your-developer-tenant)
+* [SharePoint Framework Developer](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview)
+* [Office 365 developer tenant](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)
 * [Microsoft Bot Framework](http://dev.botframework.com)
 
 ## Prerequisites
@@ -84,7 +84,6 @@ Version|Date|Comments
 - Clone this repository
 - in the command line run:
   - `npm install`
-  - `tsd install`
   - `gulp serve`
 
 - Register your bot in the Microsoft Bot Framework Portal, configure the DirectLine channel on the bot and obtain your DirectLine secret.
